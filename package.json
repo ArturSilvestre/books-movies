@@ -2,7 +2,7 @@
   "name": "books-movies",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://artursilvestre.github.io/books-movies/",
+  "homepage": "books-movies/",
   "type": "module",
   "scripts": {
     "dev": "vite",
