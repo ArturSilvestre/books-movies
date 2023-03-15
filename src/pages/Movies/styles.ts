@@ -4,5 +4,5 @@ export const HeaderHomeContainer = styled.div`
   background-color: ${props => props.theme['gray-900']};
 `;
 
-export const MainHomeContainer = styled.main`
+export const MainMoviesContainer = styled.main`
 `;
