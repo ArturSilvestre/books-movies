@@ -106,7 +106,7 @@ Error generating stack: `+o.message+`
     text-decoration: none;
     cursor: pointer; 
   }
-`,av="/books-movies/assets/Logo-fbf2d53b.svg";function ka(){return F(ov,{children:We(iv,{children:[F("img",{src:av,alt:"Logo Books e Movies"}),F(uv,{children:F(vu,{to:"/books-movies",children:"Home"})})]})})}rt.div`
+`,av="/books-movies/assets/Logo-fbf2d53b.svg";function ka(){return F(ov,{children:We(iv,{children:[F("img",{src:av,alt:"Logo Books e Movies"}),F(vu,{to:"/books-movies",children:F(uv,{children:"Home"})})]})})}rt.div`
   width: 100%;
   max-width: 1120px;
   margin: 0 auto;
@@ -176,7 +176,7 @@ Error generating stack: `+o.message+`
     text-decoration: none;
     cursor: pointer;
   }
-`;function dv(){return We(ku,{children:[F(ka,{}),We(sv,{children:[F(cv,{children:We(fv,{children:[F("h1",{children:"Leituras e Telas:"}),We("p",{children:["Descubra um universo de histórias em nosso site!",F("br",{}),"Aqui, você encontrará uma lista selecionada de livros emocionantes e filmes envolventes, com resumos detalhados que vão te fazer mergulhar de cabeça nas narrativas mais incríveis."]}),F(Zs,{children:F(vu,{to:"/livros",children:"Livros"})}),F(Zs,{children:F(vu,{to:"/filmes",children:"Filmes"})})]})}),F("img",{src:lv,alt:"Imagem de fundo de tela Check"})]})]})}rt.div`
+`;function dv(){return We(ku,{children:[F(ka,{}),We(sv,{children:[F(cv,{children:We(fv,{children:[F("h1",{children:"Leituras e Telas:"}),We("p",{children:["Descubra um universo de histórias em nosso site!",F("br",{}),"Aqui, você encontrará uma lista selecionada de livros emocionantes e filmes envolventes, com resumos detalhados que vão te fazer mergulhar de cabeça nas narrativas mais incríveis."]}),F(vu,{to:"/livros",children:F(Zs,{children:"Livros"})}),F(vu,{to:"/filmes",children:F(Zs,{children:"Filmes"})})]})}),F("img",{src:lv,alt:"Imagem de fundo de tela Check"})]})]})}rt.div`
   background-color: ${e=>e.theme["gray-900"]};
   padding: 1.5rem 0 1.5rem;
 `;const pv=rt.main`
