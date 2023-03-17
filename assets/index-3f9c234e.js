@@ -222,7 +222,7 @@ Error generating stack: `+o.message+`
     list-style: none;
     margin: 15px 0;
   }
-`;function vv(){return We(ku,{children:[F(ka,{}),We(mv,{children:[F("h1",{children:"Pagina com listagens dos filmes"}),We("ul",{children:[F("li",{children:"Filme 1: 1"}),F("li",{children:"Filme 2: 2"}),F("li",{children:"Filme 3: 3"}),F("li",{children:"Filme 4: 4"}),F("li",{children:"Filme 5: 5"}),F("li",{children:"Filme 6: 6"}),F("li",{children:"Filme 7: 7"})]})]})]})}const gv=()=>F(ev,{children:We(X0,{children:[F(Nl,{path:"/",element:F(dv,{})}),F(Nl,{path:"/livros",element:F(hv,{})}),F(Nl,{path:"/filmes",element:F(vv,{})})]})}),yv=e0`
+`;function vv(){return We(ku,{children:[F(ka,{}),We(mv,{children:[F("h1",{children:"Pagina com listagens dos filmes"}),We("ul",{children:[F("li",{children:"Filme 1: 1"}),F("li",{children:"Filme 2: 2"}),F("li",{children:"Filme 3: 3"}),F("li",{children:"Filme 4: 4"}),F("li",{children:"Filme 5: 5"}),F("li",{children:"Filme 6: 6"}),F("li",{children:"Filme 7: 7"})]})]})]})}const gv=()=>F(ev,{children:We(X0,{children:[F(Nl,{path:"/books-movies",element:F(dv,{})}),F(Nl,{path:"/livros",element:F(hv,{})}),F(Nl,{path:"/filmes",element:F(vv,{})})]})}),yv=e0`
   * {
     margin: 0;
     padding: 0;
