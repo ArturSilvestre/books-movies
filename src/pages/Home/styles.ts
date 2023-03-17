@@ -1,6 +1,15 @@
 import styled from "styled-components";
 
 export const HeaderHomeContainer = styled.div`
+  width: 100%;
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
   background-color: ${props => props.theme['gray-900']};
 `;
 
@@ -13,7 +22,7 @@ export const HomeContainer = styled.div`
 export const HomeContent = styled.div`
   width: 100%;
   height: 100%;
-  max-width: 1200px;
+  max-width: 1120px;
   margin: 0 auto;
   padding: 0 80px;
 

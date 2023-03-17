@@ -14,11 +14,11 @@ export function Home() {
               Descubra um universo de histórias em nosso site! 
               Aqui, você encontrará uma lista selecionada de livros emocionantes e filmes envolventes, com resumos detalhados que vão te fazer mergulhar de cabeça nas narrativas mais incríveis.
             </p>
-            <PagesButton>Books</PagesButton>
-            <PagesButton>Movies</PagesButton>
+            <PagesButton>Livros</PagesButton>
+            <PagesButton>Filmes</PagesButton>
           </HomeMain>
         </HomeContent>
-      <img src={bgImage} alt="Imagem de fundo de tela Check" />
+        <img src={bgImage} alt="Imagem de fundo de tela Check" />
       </HomeContainer>
     </>
   )
