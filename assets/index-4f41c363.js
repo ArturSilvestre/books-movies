@@ -126,7 +126,7 @@ Error generating stack: `+o.message+`
  
   &:hover {
     background-color: ${e=>e.theme["green-700"]};
-    transition: background-color 0.5s;
+    transition: background-color 0.8s;
   }
 `;function Em(){return or(dd,{children:[Oe(wm,{}),or(Sm,{children:[Oe(km,{children:or(Cm,{children:[Oe("h1",{children:"Leituras e Telas:"}),Oe("p",{children:"Descubra um universo de histórias em nosso site! Aqui, você encontrará uma lista selecionada de livros emocionantes e filmes envolventes, com resumos detalhados que vão te fazer mergulhar de cabeça nas narrativas mais incríveis."}),Oe(ya,{children:"Books"}),Oe(ya,{children:"Movies"})]})}),Oe("img",{src:hm,alt:"Imagem de fundo de tela Check"})]})]})}const xm=pm`
   * {
