@@ -8,7 +8,7 @@ const Rotas = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/books-movies' element={<Home />} />
+        <Route path='/' element={<Home />} />
         <Route path='/livros' element={<Books />} />
         <Route path='/filmes' element={<Movies />} />
       </Routes>
