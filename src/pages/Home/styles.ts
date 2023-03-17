@@ -72,4 +72,9 @@ export const PagesButton = styled.button`
     background-color: ${props => props.theme['green-700']};
     transition: background-color 0.8s;
   }
+
+  a {
+    color: ${props => props.theme.white};
+    text-decoration: none; 
+  }
 `;
