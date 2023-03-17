@@ -30,4 +30,9 @@ export const HomePageButton = styled.button`
     background-color: ${props => props.theme['green-700']};
     transition: background-color 0.5s;
   }
+
+  a {
+    color: ${props => props.theme.white};
+    text-decoration: none; 
+  }
 `;
