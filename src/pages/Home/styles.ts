@@ -64,4 +64,3 @@ export const PagesButton = styled.button`
     transition: background-color 0.5s;
   }
 `;
-
