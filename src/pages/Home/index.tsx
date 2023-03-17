@@ -17,16 +17,16 @@ export function Home() {
               filmes envolventes, com resumos detalhados que vão te fazer mergulhar 
               de cabeça nas narrativas mais incríveis.
             </p>
-            <PagesButton>
-              <Link to="/livros">
+            <Link to="/livros">
+              <PagesButton>
                 Livros
-              </Link>
-            </PagesButton>
-            <PagesButton>
-              <Link to="/filmes">
+              </PagesButton>
+            </Link>
+            <Link to="/filmes">
+              <PagesButton>
                 Filmes
-              </Link>
-            </PagesButton>
+              </PagesButton>
+            </Link>
           </HomeMain>
         </HomeContent>
         <img src={bgImage} alt="Imagem de fundo de tela Check" />

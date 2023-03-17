@@ -9,11 +9,11 @@ export function Header() {
       <HeaderContent>
         <img src={logoImg}  alt="Logo Books e Movies"/>
         
+        <Link to="/books-movies">
         <HomePageButton>
-          <Link to="/books-movies">
-            Home
-          </Link>
+          Home
         </HomePageButton>
+        </Link>
       </HeaderContent>
     </HeaderContainer>
   )
