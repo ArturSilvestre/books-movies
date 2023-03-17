@@ -9,7 +9,6 @@ export function App() {
   return (
     <ThemeProvider theme={defaultTheme}>
       <GlobalStyle />
-
       <Rotas />
     </ThemeProvider>
   )

@@ -12,7 +12,7 @@ export function Home() {
           <HomeMain>
             <h1>Leituras e Telas:</h1>
             <p>
-              Descubra um universo de histórias em nosso site! 
+              Descubra um universo de histórias em nosso site!<br /> 
               Aqui, você encontrará uma lista selecionada de livros emocionantes e 
               filmes envolventes, com resumos detalhados que vão te fazer mergulhar 
               de cabeça nas narrativas mais incríveis.

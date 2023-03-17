@@ -33,6 +33,7 @@ export const HomePageButton = styled.button`
 
   a {
     color: ${props => props.theme.white};
-    text-decoration: none; 
+    text-decoration: none;
+    cursor: pointer; 
   }
 `;
