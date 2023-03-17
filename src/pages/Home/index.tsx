@@ -1,5 +1,3 @@
-//import { Link } from 'react-router-dom';
-
 import bgImage from '../../assets/Check.svg';
 import { Header } from "../../components/Header/header";
 import { HomeContainer, HomeContent, HomeMain, PagesButton } from "./styles";
