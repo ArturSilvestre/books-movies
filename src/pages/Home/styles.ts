@@ -61,6 +61,6 @@ export const PagesButton = styled.button`
  
   &:hover {
     background-color: ${props => props.theme['green-700']};
-    transition: background-color 0.5s;
+    transition: background-color 0.8s;
   }
 `;
